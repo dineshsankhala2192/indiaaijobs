@@ -1,0 +1,6 @@
+{
+  "name": "IndiaAIJobs",
+  "description": "India's Smart Government Jobs Portal powered by AI technology. Find state, PSU, defense, railway, and central government jobs with smart recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
